@@ -1,0 +1,10 @@
+# Todo project
+
+# CRUD operation by any user in todo
+
+# Db designing
+
+- Todo
+	- name
+	- status
+	- description

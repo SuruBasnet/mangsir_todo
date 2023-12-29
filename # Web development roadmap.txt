@@ -1,0 +1,9 @@
+# Web development roadmap
+
+- DB designing and flow designing
+
+- Programming - Django (MVT)
+
+- Testing
+
+- Deployment
